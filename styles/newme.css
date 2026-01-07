@@ -19,5 +19,37 @@ header{
     background-size: cover; 
 }
 
+/* 
+banner section starts */
+
+.banner-container{
+    text-align: right;
+    justify-content:right;
+    padding: 216px 230px 0 845px;
+}
+
+.banner-container .h1-container{
+    max-width: 525px;
+
+}
+
+.h1-container .banner-h1{
+    font-size: 65px;
+    font-weight: bold;
+    color: #151414;
+}
+
+.banner-container .p-container{
+    max-width: 525px;
+}
+
+.p-container .banner-p{
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+
+}
+
+
 
 
