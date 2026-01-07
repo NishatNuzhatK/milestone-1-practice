@@ -130,6 +130,61 @@ banner section starts */
 
 /* plan section begins */
 
+#plan .plan-heading{
+    width: 71%;
+    max-width: 1140px;
+    margin: 0 auto;
+    justify-content: center;
+    /* border: 1px solid black;  */
+    margin-bottom: 60px;
+    
+}
+
+.plan-heading h1{
+    text-align: center;
+    color: #151414;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+#plan .card-container{
+    display: flex;
+    width: 71%;
+    max-width: 1140px;
+    margin: 0 auto;
+    gap: 50px;
+}
+
+.card-container .plan-card{
+      /* border: 1px solid black;  */
+    width: 270px;
+    text-align: center;
+    
+}
+
+.plan-card img{
+    width: 93px;
+    margin-bottom: 18px;
+
+}
+
+.plan-card h2{
+    font-size: 25px;
+    font-weight: bold;
+    color: #151414;
+    margin-bottom: 18px;  
+
+}
+
+.plan-card p{
+    font-size: 25px;
+    color: #737272;
+}
+
+
+
+
+
 
 
 
