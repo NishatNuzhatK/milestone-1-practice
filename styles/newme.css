@@ -72,6 +72,7 @@ banner section starts */
     font-size: 20px;
     font-weight: 600;
     padding: 20px 25px;
+    cursor: pointer;
 }
 
 /* failure section starts */
@@ -228,6 +229,7 @@ banner section starts */
     padding: 10px;
     border: none;
     border-radius: 5px;
+    cursor: pointer;
 }
 
 
